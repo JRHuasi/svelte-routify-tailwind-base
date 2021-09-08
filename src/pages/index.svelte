@@ -4,4 +4,4 @@
     metatags.description = 'Sistema de registro de reservas hoteleras'
 </script>
 
-<p>To delete the example app, simply delete the ./src/pages/example folder.</p>
+<p>TuHOME PAGE acá</p>
